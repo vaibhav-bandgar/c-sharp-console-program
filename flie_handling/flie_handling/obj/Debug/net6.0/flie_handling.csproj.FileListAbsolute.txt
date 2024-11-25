@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\flie_handling\flie_handling\bin\Debug\net6.0\flie_handling.exe
+C:\Users\admin\source\repos\flie_handling\flie_handling\bin\Debug\net6.0\flie_handling.deps.json
+C:\Users\admin\source\repos\flie_handling\flie_handling\bin\Debug\net6.0\flie_handling.runtimeconfig.json
+C:\Users\admin\source\repos\flie_handling\flie_handling\bin\Debug\net6.0\flie_handling.dll
+C:\Users\admin\source\repos\flie_handling\flie_handling\bin\Debug\net6.0\flie_handling.pdb
+C:\Users\admin\source\repos\flie_handling\flie_handling\obj\Debug\net6.0\flie_handling.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\flie_handling\flie_handling\obj\Debug\net6.0\flie_handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\flie_handling\flie_handling\obj\Debug\net6.0\flie_handling.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\flie_handling\flie_handling\obj\Debug\net6.0\flie_handling.AssemblyInfo.cs
+C:\Users\admin\source\repos\flie_handling\flie_handling\obj\Debug\net6.0\flie_handling.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\flie_handling\flie_handling\obj\Debug\net6.0\flie_handling.dll
+C:\Users\admin\source\repos\flie_handling\flie_handling\obj\Debug\net6.0\refint\flie_handling.dll
+C:\Users\admin\source\repos\flie_handling\flie_handling\obj\Debug\net6.0\flie_handling.pdb
+C:\Users\admin\source\repos\flie_handling\flie_handling\obj\Debug\net6.0\flie_handling.genruntimeconfig.cache
+C:\Users\admin\source\repos\flie_handling\flie_handling\obj\Debug\net6.0\ref\flie_handling.dll
