@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\snakeandslide\snakeandslide\bin\Debug\net6.0\snakeandslide.exe
+C:\Users\admin\source\repos\snakeandslide\snakeandslide\bin\Debug\net6.0\snakeandslide.deps.json
+C:\Users\admin\source\repos\snakeandslide\snakeandslide\bin\Debug\net6.0\snakeandslide.runtimeconfig.json
+C:\Users\admin\source\repos\snakeandslide\snakeandslide\bin\Debug\net6.0\snakeandslide.dll
+C:\Users\admin\source\repos\snakeandslide\snakeandslide\bin\Debug\net6.0\snakeandslide.pdb
+C:\Users\admin\source\repos\snakeandslide\snakeandslide\obj\Debug\net6.0\snakeandslide.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\snakeandslide\snakeandslide\obj\Debug\net6.0\snakeandslide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\snakeandslide\snakeandslide\obj\Debug\net6.0\snakeandslide.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\snakeandslide\snakeandslide\obj\Debug\net6.0\snakeandslide.AssemblyInfo.cs
+C:\Users\admin\source\repos\snakeandslide\snakeandslide\obj\Debug\net6.0\snakeandslide.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\snakeandslide\snakeandslide\obj\Debug\net6.0\snakeandslide.dll
+C:\Users\admin\source\repos\snakeandslide\snakeandslide\obj\Debug\net6.0\refint\snakeandslide.dll
+C:\Users\admin\source\repos\snakeandslide\snakeandslide\obj\Debug\net6.0\snakeandslide.pdb
+C:\Users\admin\source\repos\snakeandslide\snakeandslide\obj\Debug\net6.0\snakeandslide.genruntimeconfig.cache
+C:\Users\admin\source\repos\snakeandslide\snakeandslide\obj\Debug\net6.0\ref\snakeandslide.dll
